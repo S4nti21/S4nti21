@@ -66,8 +66,6 @@ Estoy en constante aprendizaje, sumando herramientas y buenas prácticas a medid
 
 <div align="center">
 
-[![Ver repositorios](https://img.shields.io/badge/Ver_todos_los_repositorios-16213e?style=for-the-badge&logoColor=white)](https://github.com/SantiagoWeidmann?tab=repositories)
-
 </div>
 
 <br/>
