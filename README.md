@@ -73,5 +73,4 @@ Estoy en constante aprendizaje, sumando herramientas y buenas prácticas a medid
 <br/>
 
 <div align="center">
-<sub>Última actualización de este perfil: revisá el historial de commits de este repo ✎</sub>
 </div>
