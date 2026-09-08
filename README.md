@@ -23,7 +23,7 @@ public class Santiago {
 
 ## Sobre mí
 
-Trabajo de forma independiente desarrollando software a medida. Mi enfoque está puesto en tomar procesos manuales, repetitivos o mal resueltos y convertirlos en soluciones digitales prácticas — no en agregar tecnología porque sí, sino porque resuelve algo real.
+Trabajo de forma independiente desarrollando software a medida. Mi enfoque está puesto en tomar procesos manuales, repetitivos o mal resueltos y convertirlos en soluciones digitales prácticas, no en agregar tecnología porque sí, sino porque resuelve algo real.
 
 Estoy en constante aprendizaje, sumando herramientas y buenas prácticas a medida que los proyectos lo piden.
 
@@ -62,7 +62,7 @@ Estoy en constante aprendizaje, sumando herramientas y buenas prácticas a medid
 
 ## Proyectos destacados
 
-> Todavía no tengo un proyecto insignia publicado — estoy construyendo el primero que quiera mostrar acá. Mientras tanto, podés ver el resto de mi trabajo en mis repositorios.
+> Todavía no tengo un proyecto insignia publicado, estoy construyendo el primero que quiera mostrar acá. Mientras tanto, podés ver el resto de mi trabajo en mis repositorios.
 
 <div align="center">
 
