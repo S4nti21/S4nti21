@@ -118,5 +118,4 @@ Digitaliza de punta a punta un trámite que hoy se hace en papel: el ciudadano s
 <br/>
 
 <div align="center">
-<sub>Última actualización de este perfil: revisá el historial de commits de este repo ✎</sub>
 </div>
