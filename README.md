@@ -23,8 +23,7 @@ public class Santiago {
 
 ## Sobre mí
 
-Trabajo de forma independiente desarrollando software a medida. Mi enfoque está puesto en tomar procesos manuales, repetitivos o mal resueltos y convertirlos en soluciones digitales prácticas — no en agregar tecnología porque sí, sino porque resuelve algo real.
-
+Trabajo de forma independiente desarrollando software a medida. Mi enfoque está puesto en tomar procesos manuales, repetitivos o mal resueltos y convertirlos en soluciones digitales prácticas, no en agregar tecnología porque sí, sino porque resuelve algo real.
 Estoy en constante aprendizaje, sumando herramientas y buenas prácticas a medida que los proyectos lo piden.
 
 <br/>
@@ -108,13 +107,11 @@ Digitaliza de punta a punta un trámite que hoy se hace en papel: el ciudadano s
 
 <br/>
 
-[![Ver repositorio](https://img.shields.io/badge/Ver_repositorio-16213e?style=for-the-badge&logoColor=white)](https://github.com/S4nti21/RDAM)
+[![Ver repositorio](https://img.shields.io/badge/Ver_repositorio-16213e?style=for-the-badge&logoColor=white)](https://github.com/S4nti21/RDAM.git)
 
 <br/>
 
 <div align="center">
-
-[![Ver todos los repositorios](https://img.shields.io/badge/Ver_todos_los_repositorios-16213e?style=for-the-badge&logoColor=white)](https://github.com/SantiagoWeidmann?tab=repositories)
 
 </div>
 
